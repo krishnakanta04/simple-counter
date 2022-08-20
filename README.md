@@ -1,3 +1,2 @@
 # simple-counter
-
-A simple counter application - SMALL PROJECT
+Its an simple web application that increases, decreases or resets the count.
